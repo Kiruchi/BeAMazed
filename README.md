@@ -1,0 +1,2 @@
+# BeAMazed
+An haptic maze
